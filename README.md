@@ -6,5 +6,6 @@ This repository contains my solutions and notes related to competitive programmi
 
 - [Codeforces profile](https://codeforces.com/profile/facumotta)
 - [SPOJ profile](https://www.spoj.com/users/facumotta/)
+- [CSES profile](https://cses.fi/problemset/user/159989)
 
 I mostly use **C++** to solve problems, depending on the task and time constraints.
