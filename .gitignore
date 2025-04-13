@@ -33,3 +33,6 @@
 
 *.txt
 *.pdf
+!APUNTE_PROGRAMACION_COMPETITIVA.pdf
+
+**/.vscode/
